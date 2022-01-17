@@ -1,16 +1,16 @@
 # Seja bem-vindo ao meu perfil! <img src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif" width="24" /> <img align="right" src="https://komarev.com/ghpvc/?username=crazymaax&color=AE82CE&label=Visitas+ao+perfil" alt="Profile Views">
 
 <div>
-  <ul>
+    <ul>
     <li>😁 - Atualmente estudando Front-End pela <a href="https://kenzie.com.br
-" target="_blank">Kenzie Academy</a>.</li>
-    <li>😋 - Toda ajuda é bem-vinda!</li>
-    <li>👨🏻‍🎓 - Formado em Engenharia Mecânica</li>
-    <li>💻 - Dedicando 100% a programação.</li>
-    <li> 🎮 - Sonhando em ser Game Dev.</li>
-    <li> ✏️ - Dando inicio nos estudos de C#, C++.</li>
-    <li> 📢 - Acesse as redes sociais para mais informações.</li>
-  </ul>
+        " target="_blank">Kenzie Academy</a>.</li>
+        <li>😋 - Toda ajuda é bem-vinda!</li>
+        <li>👨🏻‍🎓 - Formado em Engenharia Mecânica</li>
+        <li>💻 - Dedicando 100% a programação.</li>
+        <li> 🎮 - Sonhando em ser Game Dev.</li>
+        <li> ✏️ - Dando inicio nos estudos de C#, C++.</li>
+        <li> 📢 - Acesse as redes sociais para mais informações.</li>
+    </ul>
 </div>
 
 ##
@@ -21,6 +21,8 @@
       src="https://github-readme-stats.vercel.app/api?username=crazymaax&custom_title=Histórico de CrazyMaax&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" alt="Estatística de CrazyMaax"/>
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazymaax&custom_title=Linguagens&layout=compact&langs_count=7&theme=material-palenight" alt="Linguagens"/>
+</div>
+<div align="center">
     <a href="https://www.linkedin.com/in/maxmilan/" target="_blank"><img
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         target="_blank" alt="Linkedin"></a>
@@ -33,9 +35,8 @@
     <a href="mailto:maxmilan10@hotmail.com" target="_blank"><img
         src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
         target="_blank" alt="Email"></a>
-
 </div>
-
+  
 ##
 
 <div align="center">
@@ -50,9 +51,10 @@
 </a>
 </div>
 
-##
+## 
 
 <div align="center">
+  <img align="right" height="160px" src="https://i.ibb.co/6mtkwq4/Gif-1.gif" alt="Foto de Max">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
