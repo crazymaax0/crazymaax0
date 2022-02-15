@@ -45,7 +45,7 @@
   <img align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=crazymaax&repo=Anotacoes-Dev&theme=material-palenight" />
 </a>
-<a href="https://github.com/crazymaax/Exemplos-de-Javascript">
+<a href="https://github.com/crazymaax/Cara-ou-Coroa">
   <img align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=crazymaax&repo=Cara-ou-Coroa&theme=material-palenight" />
 </a>
