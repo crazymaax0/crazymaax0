@@ -47,7 +47,7 @@
 </a>
 <a href="https://github.com/crazymaax/Exemplos-de-Javascript">
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=crazymaax&repo=Exemplos-de-Javascript&theme=material-palenight" />
+    src="https://github-readme-stats.vercel.app/api/pin/?username=crazymaax&repo=Cara-ou-Coroa&theme=material-palenight" />
 </a>
 </div>
 
