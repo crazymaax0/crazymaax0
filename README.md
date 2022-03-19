@@ -41,18 +41,14 @@
 
 <div align="center">
 <h3 align="left">Alguns repositórios interessantes:</h3>
-    <a href="https://github.com/crazymaax/Simples-Blog">
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=crazymaax&repo=Simples-Blog&theme=material-palenight" />
-</a>
-<a href="https://github.com/crazymaax/Bruno-Adivinha">
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=crazymaax&repo=Bruno-Adivinha&theme=material-palenight" />
-</a>
-<a href="https://github.com/crazymaax/Cara-ou-Coroa">
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=crazymaax&repo=Cara-ou-Coroa&theme=material-palenight" />
-</a>
+    <a href="https://github.com/crazymaax/Fotos-Proximas"><img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=crazymaax&repo=Fotos-Proximas&theme=material-palenight" /></a>
+    <a href="https://github.com/crazymaax/Simples-Blog"><img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=crazymaax&repo=Simples-Blog&theme=material-palenight" /></a>
+<a href="https://github.com/crazymaax/Bruno-Adivinha"><img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=crazymaax&repo=Bruno-Adivinha&theme=material-palenight" /></a>
+<a href="https://github.com/crazymaax/Cara-ou-Coroa"><img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=crazymaax&repo=Cara-ou-Coroa&theme=material-palenight" /></a>
 </div>
 
 ## 
