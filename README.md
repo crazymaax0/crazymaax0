@@ -41,6 +41,8 @@
 
 <div align="center">
 <h3 align="left">Alguns repositórios interessantes:</h3>
+    <a href="https://github.com/crazymaax/Nu-Kenzie"><img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=crazymaax&repo=Nu-Kenzie&theme=material-palenight" /></a>
     <a href="https://github.com/crazymaax/KenzieFood"><img align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=crazymaax&repo=KenzieFood&theme=material-palenight" /></a>
     <a href="https://github.com/crazymaax/Fotos-Proximas"><img align="center"
