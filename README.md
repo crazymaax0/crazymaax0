@@ -41,6 +41,8 @@
 
 <div align="center">
 <h3 align="left">Alguns repositórios interessantes:</h3>
+    <a href="https://github.com/crazymaax/GitHub-Cards"><img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=crazymaax&repo=GitHub-Cards&theme=material-palenight" /></a>
     <a href="https://github.com/crazymaax/Hamburgueria-da-Kenzie"><img align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=crazymaax&repo=Hamburgueria-da-Kenzie&theme=material-palenight" /></a>
     <a href="https://github.com/crazymaax/Nu-Kenzie"><img align="center"
