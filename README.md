@@ -16,10 +16,19 @@
 ##
 
 <div align="center">
+<a href="https://portfolio-max-crazymaax.vercel.app/" target="_blank"><img
+        height="200em"
+        src="https://i.ibb.co/S7vhbTQ/Visite.png"
+        target="_blank" alt="Portfólio"></a>
+</div>
+
+##
+
+<div align="center">
   <a href="https://github.com/crazymaax">
-    <img height="180em"
+    <img height="160em"
       src="https://github-readme-stats.vercel.app/api?username=crazymaax&custom_title=Histórico de CrazyMaax&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" alt="Estatística de CrazyMaax"/>
-    <img height="180em"
+    <img height="160em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazymaax&custom_title=Linguagens&layout=compact&langs_count=7&theme=material-palenight" alt="Linguagens"/>
 </div>
 <div align="center">
