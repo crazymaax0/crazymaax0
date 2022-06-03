@@ -2,8 +2,7 @@
 
 <div>
     <ul>
-    <li>😁 - Atualmente estudando Front-End pela <a href="https://kenzie.com.br
-        " target="_blank">Kenzie Academy</a>.</li>
+    <li>😁 - Desenvolvedor Front-End.</li>
         <li>😋 - Toda ajuda é bem-vinda!</li>
         <li>👨🏻‍🎓 - Formado em Engenharia Mecânica</li>
         <li>💻 - Dedicando 100% a programação.</li>
